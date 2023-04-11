@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alba Arjona</h1>
 <h3 align="center">A passionate data analyst from Malaga (Spain)!</h3>
 
-- 🌱 I’m currently learning **SQL, R, Python and Tableau**
+- 🌱 I’m currently learning **SQL, R, Python and C**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AlbaArjonaObrero](https://github.com/AlbaArjonaObrero)
 
